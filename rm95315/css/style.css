@@ -1,0 +1,44 @@
+
+*{
+    font-size: 20px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #181212;
+    color: #fff;
+    margin: 1vh 5vw;
+    height: 90vh;
+}
+.cabecalho{
+    width: 100vw;
+    height: 10vh;
+    background-color: #fff;
+    color: #000000;
+}
+.cabecalho h1{
+    text-align: center;
+}
+.cabecalho nav{
+    float: left;
+}
+.cabecalho nav a{
+    padding: 0 10vw;
+}
+.conteudo{
+    clear: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.conteudo article{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+.conteudo article h2{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+.rodape nav ul{
+    list-style: none;
+    margin-top:20vh ;
+}
+
