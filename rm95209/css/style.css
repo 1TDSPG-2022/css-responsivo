@@ -1,0 +1,48 @@
+* {
+    font-size: 20px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #181212;
+    color: #fff;
+    margin: 1vh 5vw;
+    height: 90vh;
+}
+
+.cabecalho{
+    width: 100vw;
+    height: 5vh;
+    background-color: #fff;
+    color: #181212;
+}
+
+.cabecalho h1 {
+    text-align: center;
+}
+
+.cabecalho nav {
+    float: left;
+}
+
+.cabecalho nav a {
+    padding:  10vw 20vw;
+}
+
+.conteudo {
+    clear: left;
+}
+
+.conteudo article {
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.conteudo article h2 {
+    text-align: center;
+}
+
+footer nav ul {
+    list-style: none;
+}
